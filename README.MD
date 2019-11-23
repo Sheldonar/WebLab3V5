@@ -1,4 +1,4 @@
-# Users registration
+# 3rd Lab: Registration form
 
 ## Description:
 Web application to provide a list of logins for users, signed in to the system.
